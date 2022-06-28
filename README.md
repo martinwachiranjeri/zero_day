@@ -1,2 +1,2 @@
 
-This file is mandatory in projects
+my read me file
